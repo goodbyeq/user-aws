@@ -1,4 +1,4 @@
-FROM 634957622823.dkr.ecr.us-east-1.amazonaws.com/tomcat8:14 
+FROM 634957622823.dkr.ecr.ap-south-1.amazonaws.com/tomcat8:latest
 
 USER root
 
